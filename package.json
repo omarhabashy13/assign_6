@@ -1,0 +1,14 @@
+{
+  "name": "assignment-7",
+  "version": "1.0.0",
+  "description": "Route Academy - MongoDB Assignment 7 (Express.js + MongoDB native driver)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0"
+  }
+}
